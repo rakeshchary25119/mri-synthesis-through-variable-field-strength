@@ -39,8 +39,7 @@ This project explores how varying magnetic field strengths (0.5T to 9T) influenc
    - MRI signal modeling
    - Noise simulation
    - Resolution adjustments  
-3. **`Results/`**: Output images, SNR maps, sharpness graphs, and other visualizations.  
-4. **`Docs/`**: Comprehensive report detailing methodology, results, and insights.  
+3. **`Docs/`**: Comprehensive report detailing methodology, results, and insights.  
 
 ---
 
@@ -48,13 +47,13 @@ This project explores how varying magnetic field strengths (0.5T to 9T) influenc
 
 ### **Prerequisites**  
 - Python 3.8+  
-- Libraries: `numpy`, `scipy`, `matplotlib`, `nibabel`, `pandas`  
+- Libraries: `numpy`, `scipy`, `matplotlib`, `nibabel`, `pandas` 
 
 ### **Setup**  
 1. Clone this repository:  
    ```bash
    git clone https://github.com/rakeshchary25119/mri-synthesis-through-variable-field-strength.git
-   cd mri-synthesis-through-variable-field-strength
+   cd mri-synthesis-through-variable-field-strength 
    ```  
 2. Install dependencies:  
    ```bash
