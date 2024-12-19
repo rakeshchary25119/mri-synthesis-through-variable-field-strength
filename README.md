@@ -13,7 +13,7 @@ This project explores how varying magnetic field strengths (0.5T to 9T) influenc
 - Used tools like **NiBabel** to handle neuroimaging data and ensured consistent analysis by selecting a representative axial slice.  
 
 ### **2. MRI Signal Modeling**  
-- Calculated **relaxation times (T1, T2*) as functions of magnetic field strength.  
+- Calculated **relaxation times (T1, T2*)** as functions of magnetic field strength.  
 - Determined **optimal echo time (TE)** and **flip angles** to maximize tissue contrast.  
 - Simulated and analyzed **SNR trends** across magnetic field strengths, highlighting tissue-specific resilience.  
 
